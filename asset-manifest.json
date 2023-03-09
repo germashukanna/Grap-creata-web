@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Grap-creata-web/static/css/main.40a003be.css",
+    "main.js": "/Grap-creata-web/static/js/main.84eb71ac.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Grap-creata-web/static/js/787.28cb0dcd.chunk.js",
+    "static/media/hero.png": "/Grap-creata-web/static/media/hero.44d6d4ef90685254e225.png",
+    "static/media/6.jpg": "/Grap-creata-web/static/media/6.42551e455befcd333a6e.jpg",
+    "static/media/3.jpg": "/Grap-creata-web/static/media/3.5f0f7da11687ea0a2c30.jpg",
+    "static/media/5.jpg": "/Grap-creata-web/static/media/5.00d54903b38d5478aabf.jpg",
+    "static/media/2.jpg": "/Grap-creata-web/static/media/2.20606d907107b5b513f4.jpg",
+    "static/media/raleway-regular.woff2": "/Grap-creata-web/static/media/raleway-regular.ac6d55fb99dbe0ca591e.woff2",
+    "static/media/1.jpg": "/Grap-creata-web/static/media/1.8f2482ca177d230302ac.jpg",
+    "static/media/outfit-regular.woff2": "/Grap-creata-web/static/media/outfit-regular.c0e2986042851b20b652.woff2",
+    "index.html": "/Grap-creata-web/index.html",
+    "main.40a003be.css.map": "/Grap-creata-web/static/css/main.40a003be.css.map",
+    "main.84eb71ac.js.map": "/Grap-creata-web/static/js/main.84eb71ac.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Grap-creata-web/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40a003be.css",
+    "static/js/main.84eb71ac.js"
+  ]
+}
